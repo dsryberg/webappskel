@@ -1,6 +1,6 @@
-FROM python:3.7
+FROM XXXXXXXXX
 
-LABEL maintainer="Sebastian Ramirez <tiangolo@gmail.com>"
+LABEL maintainer="David Severin Ryberg <s.ryberg@fz-juelich.de>"
 
 RUN pip install uvicorn gunicorn
 
